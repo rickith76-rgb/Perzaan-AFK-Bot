@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Deepak",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "dmsr.minefort.com",
+    "port": 19132,
     "version": "1.21.1"
   },
   "position": {
